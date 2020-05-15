@@ -1,0 +1,3 @@
+This article is part of a series introducing new developers to building web applications in JavaScript without frameworks or any other “magic”. You can see all the articles in the series here.
+Note: if you understand the basics of JavaScript, feel free to skip ahead to any of the article in the series that looks interesting. Otherwise, if you want an easy introduction to the basics of the language, read on!
+Let’s jump into our first practical exercise. No, we’re not going to build a “Hello World” app. I wouldn’t do that to you. Instead, we’re going to build something much cooler: a video game.
